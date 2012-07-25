@@ -16,5 +16,6 @@ public class TestBuddhika {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("From Karunegala");
+        System.out.println("From Southern PDHS");
     }
 }
