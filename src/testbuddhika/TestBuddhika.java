@@ -20,6 +20,7 @@ public class TestBuddhika {
         System.out.println("From nimal to Wanasinghe");
         System.out.println("From wan");
         System.out.println("From wan to nimal  ");
+           System.out.println("From nimal to wana  ");
         
         
     }
