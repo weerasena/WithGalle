@@ -18,6 +18,7 @@ public class TestBuddhika {
         System.out.println("From Karunegala");
         System.out.println("From Southern PDHS");
         System.out.println("From nimal to Wanasinghe");
+        System.out.println("From wan");
         
     }
 }
